@@ -18,7 +18,7 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 
 ## Git Collaboration
 [Git Collaboration](../task_git_collaboration\githubColaboration.png)
-[Git How To](../task_git_collaboration\howToGit.png)
+[Git How To](task_git_collaboration\howToGit.png)
 
 + Working with diferent branches was new for me, its very helpfull information
 + Info about pull requests and working in team intresting and helpfull for people which works on same project
