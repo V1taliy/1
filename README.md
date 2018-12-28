@@ -17,11 +17,12 @@ NodeJS with it ExpressJS library, where already created list of usfull methods f
 I will try to download Fiddler to View HTTP Traffic, its looks like powerfull tool.
 
 ## Git Collaboration
-[Git Collaboration](../task_git_collaboration\githubColaboration.png)
-[Git How To](../task_git_collaboration\howToGit.png)
+[Git Collaboration](task_git_collaboration/githubColaboration.png)
+[Git How To](task_git_collaboration/howToGit.png)
 
 + Working with diferent branches was new for me, its very helpfull information
 + Info about pull requests and working in team intresting and helpfull for people which works on same project
+<<<<<<< HEAD
 
 ## Intro to HTML and CSS
 [Udacity](../task_html_css_intro\Udacity_HTML&CSS.png)
