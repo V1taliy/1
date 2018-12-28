@@ -22,3 +22,10 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 
 + Working with diferent branches was new for me, its very helpfull information
 + Info about pull requests and working in team intresting and helpfull for people which works on same project
+
+## Intro to HTML and CSS
+[Udacity](../task_html_css_intro\Udacity_HTML&CSS.png)
+[HTML academy 1](../task_html_css_intro\HTML_academy1.png)
+[HTML academy 2](../task_html_css_intro\HTML_academy2.png)
+
++ In this section I'm not find anything new for me, repeat some theme, repeat CSS 
