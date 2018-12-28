@@ -28,4 +28,4 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 [HTML academy 1](../task_html_css_intro\HTML_academy1.png)
 [HTML academy 2](../task_html_css_intro\HTML_academy2.png)
 
-+ In this section I'm not find anything new for me, repeat some theme, repeat CSS 
++ In this section I'm not find anything new for me, previously I already finish this sections. I repeat some theme, repeat CSS.
