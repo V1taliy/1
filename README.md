@@ -36,6 +36,6 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 [HTML academy 1](../task_responsive_web_design\flex-box-froggy.png)
 [HTML academy 2](../task_responsive_web_design\Udacity_responsive.png)
 
-+ Flexbox froggy I've finished before, in this time I repeat it again.
++ Flexbox froggy I've finished before, at this time I repeat it again.
 + Udacity responsive course was interesting for me. Debugging on mobile devices was new for me and very usefull.
 + Info about media query wasn't new for me, but interesting.
