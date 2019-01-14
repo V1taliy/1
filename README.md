@@ -42,8 +42,8 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 
 
 ## JS Basics
-[Udacity JS basics](task_responsive_web_design/flex-box-froggy.png)
-[freeCodeCamp JS](task_responsive_web_design/Udacity_responsive.png)
+[Udacity JS basics](task_js_basics/udacityJS.png)
+[freeCodeCamp JS](task_js_basics/freeCodeCamp.png)
 
 + Udacity course was interesting for me, some articles I scrolled, because I know it, some of them was new and I practiced
 + freeCodeCamp course was difficult for me, maybe need to start from beginner algorithmic level, not from intermediate
