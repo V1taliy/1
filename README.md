@@ -22,7 +22,7 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 
 + Working with diferent branches was new for me, its very helpfull information
 + Info about pull requests and working in team intresting and helpfull for people which works on same project
-<<<<<<< HEAD
+
 
 ## Intro to HTML and CSS
 [Udacity](task_html_css_intro/Udacity_HTML&CSS.png)
@@ -33,12 +33,17 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 
 
 ## Responsive Web Design
-[HTML academy 1](../task_responsive_web_design\flex-box-froggy.png)
-[HTML academy 2](../task_responsive_web_design\Udacity_responsive.png)
+[flex-box-froggy](task_responsive_web_design/flex-box-froggy.png)
+[Udacity_responsive](task_responsive_web_design/Udacity_responsive.png)
 
-+ Flexbox froggy I've finished before, in this time I repeat it again.
++ Flexbox froggy I've finished before, at this time I repeat it again.
 + Udacity responsive course was interesting for me. Debugging on mobile devices was new for me and very usefull.
 + Info about media query wasn't new for me, but interesting.
 
 
 ## JS Basics
+[Udacity JS basics](task_responsive_web_design/flex-box-froggy.png)
+[freeCodeCamp JS](task_responsive_web_design/Udacity_responsive.png)
+
++ Udacity course was interesting for me, some articles I scrolled, because I know it, some of them was new and I practiced
++ freeCodeCamp course was difficult for me, maybe need to start from beginner algorithmic level, not from intermediate
