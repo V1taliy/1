@@ -39,3 +39,6 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 + Flexbox froggy I've finished before, in this time I repeat it again.
 + Udacity responsive course was interesting for me. Debugging on mobile devices was new for me and very usefull.
 + Info about media query wasn't new for me, but interesting.
+
+
+## JS Basics
