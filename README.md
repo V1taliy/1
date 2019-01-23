@@ -52,7 +52,7 @@ I will try to download Fiddler to View HTTP Traffic, its looks like powerfull to
 ## DOM
 
 [JavaScript and the DOM](task_js_dom/DOM_object.png)
-[freeCodeCampAlgo](freeCodeCampAlgo.png)
+[freeCodeCampAlgo](task_js_dom/freeCodeCampAlgo.png)
 
 + JS and the DOM udacity course was good and informative, I want to see more real cases and practise.
 + freeCodeCamp course was difficult for me again
